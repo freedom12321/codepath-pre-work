@@ -18,10 +18,12 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-<img src='https://imgur.com/a/AnNLofg.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-
+<div>
+    <a href="https://www.loom.com/share/a5529d66931e4cb795c76ceb1f5f6746"</a>
+    <a href="https://www.loom.com/share/a5529d66931e4cb795c76ceb1f5f6746">
+      <img style="max-width:300px;" src="null">
+    </a>
+  </div>
 <!-- Replace this with whatever GIF tool you used! -->
 kap 
 <!-- Recommended tools:
